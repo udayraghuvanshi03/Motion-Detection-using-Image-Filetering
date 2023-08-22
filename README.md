@@ -1,1 +1,1 @@
-# Motion-Detection-using-Image-Filetering
+# Motion-Detection-using-Image-Filtering
